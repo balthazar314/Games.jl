@@ -1,5 +1,8 @@
 using Games
 
+#  WARNING: this does not work yet
+# inspired by <https://billwadge.wordpress.com/2021/12/11/unbeatable-tictactoe-in-pyfl/>
+
 struct BillWadge
 end
 
