@@ -1,6 +1,7 @@
 #using Games
 
-@warn "with the way this works, you will get a stack overflow, see line 21"
+@warn "only works for reversible games"
+@warn "also doesn't play optimally for nim out of the box"
 
 struct TreeWalker
 end
